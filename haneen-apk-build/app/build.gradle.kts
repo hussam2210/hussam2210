@@ -8,8 +8,8 @@ android {
         applicationId = "com.drpixel.haneen"
         minSdk = 26
         targetSdk = 35
-        versionCode = 31
-        versionName = "3.1-field"
+        versionCode = 32
+        versionName = "3.2-field"
     }
 
     compileOptions {
